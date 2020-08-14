@@ -62,4 +62,4 @@ npm install
 npm run serve
 
 ```
-**OK, at this point, the server has started successfully. At this time, directly enter `http://localhost:8080/` in the address bar to access the project.**
+**OK, so far, the server has started successfully. At this time, directly enter `http://localhost:8080` in the address bar to access the project.**
